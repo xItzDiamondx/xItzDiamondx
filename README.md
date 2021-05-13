@@ -1,6 +1,6 @@
 ### Hello, I'm NotDiamondZ 👋
 
-- 👨‍💻 My website: [is here](//https://xitzdiamondx.github.io/) ([source code](//github.com/xitzdiamondx/xitzdiamondx.github.io/))
+- 👨‍💻 My website: [is here](https://xitzdiamondx.github.io/) ([source code](//github.com/xitzdiamondx/xitzdiamondx.github.io/))
 - 🔭 I’m currently working on school 🙁. Outside of that, I'm mainly working on Github and the wonders it provides
 - 🌱 I’m currently learning Git and Java
 - 💬 Ask me about Scratch or HTML.
