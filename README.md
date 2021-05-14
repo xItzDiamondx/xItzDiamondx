@@ -1,4 +1,4 @@
-### Hello, I'm NotDiamondZ 👋
+<h1>Hello, I'm Zack 👋</h1>
 
 - 👨‍💻 My website: [is here](https://xitzdiamondx.github.io/) ([source code](//github.com/xitzdiamondx/xitzdiamondx.github.io/))
 - 🔭 I’m currently working on school 🙁. Outside of that, I'm mainly working on Github and the wonders it provides
