@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on school 🙁. Outside of that, I'm mainly working on Github and the wonders it provides
 - 🌱 I’m currently learning Git and Java
 - 💬 Ask me about Scratch or HTML.
-- 📫 How to reach me: [my Scratch profile](https://scratch.mit.edu/users/NotDiamondZ) (or on Github, contact me [here](https://github.com/xitzdiamondx/xitzdiamondx/discussions))
+- 📫 How to reach me: [my Scratch profile](https://scratch.mit.edu/users/NotDiamondZ) (or via email, contact me [here](mailto:notdiamondz@pm.me))
 - 😄 Pronouns: He/him or they/them
 - ⚡ Fun fact: I like Minecraft  
 - 🕘 Status: probably online since I don't have too much to do
