@@ -1,6 +1,6 @@
 <h1>Hello, I'm Zack 👋</h1>
 
-- 👨‍💻 My website: [is here](https://xitzdiamondx.github.io/) ([source code](//github.com/xitzdiamondx/xitzdiamondx.github.io/))
+- 👨‍💻 My website: [is here](https://xitzdiamondx.github.io/website/) ([source code](//https://github.com/xItzDiamondx/website))
 - 🔭 I’m currently working on school 🙁. Outside of that, I'm mainly working on Github and the wonders it provides
 - 🌱 I’m currently learning Git and Java
 - 💬 Ask me about Scratch or HTML.
