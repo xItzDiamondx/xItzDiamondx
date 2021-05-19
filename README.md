@@ -9,5 +9,5 @@
 - ⚡ Fun fact: I like Minecraft  
 - 🕘 Status: probably online since I don't have too much to do
 <img src="https://raw.githubusercontent.com/gosoccerboy5/gosoccerboy5.github.io/3deab9880fec886abe2e55fcdb43bee838820ea4/resources/cat-head.svg" alt=":)" width="30" title = "meow"/>
-<img src = "https://github-readme-stats.vercel.app/api?username=xitzdiamondx&theme=tokyonight">  
+<img src = "https://github-readme-stats.vercel.app/api?username=xitzdiamondx&theme=tokyonight">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xitzdiamondx&theme=radical">
