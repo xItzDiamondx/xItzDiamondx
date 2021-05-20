@@ -1,5 +1,5 @@
 <h1>Hello, I'm Zack 👋</h1>
-![Profile Views](https://komarev.com/ghpvc/?username=xItzDiamondx&label=Profile+Views)
+<img src="https://komarev.com/ghpvc/?username=xItzDiamondx&label=Profile+Views" alt="Profile Views">
 - 👨‍💻 My website <a href="https://xitzdiamondx.github.io" target="_blank">is here</a> ([source code](https://github.com/xItzDiamondx/xitzdiamondx.github.io))
 - 🔭 I’m currently working on school 🙁. Outside of that, I'm mainly working on Github and the wonders it provides
 - 🌱 I’m currently learning Git and Java
