@@ -1,9 +1,10 @@
-<h1>Hello, I'm Zack 👋</h1>
-<img src="https://komarev.com/ghpvc/?username=xItzDiamondx&label=Profile+Views" alt="Profile Views">  
+<h1 align="center";>Hello, I'm Zack 👋</h1>  
+<p align="center"><img src = "https://github-readme-stats.vercel.app/api?username=xitzdiamondx&theme=tokyonight"> <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xitzdiamondx&theme=radical"><br><img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=explosion-scratch.visitor.badge.reloaded&color=00bbbb&style=for-the-badge&logo=github" alt="Profile Views"></p>  
 
-- 👨‍💻 My website <a href="https://xitzdiamondx.github.io" target="_blank">is here</a> <a href="https://github.com/xItzDiamondx/xItzDiamondx.github.io" alt="Source Code">Source Code</a>  
+- 👨‍💻 My website <a href="https://xitzdiamondx.github.io" target="_blank">is here</a> <a href="https://github.com/xItzDiamondx/xItzDiamondx.github.io" alt="Source Code">(Source Code)</a>  
 
-- 🔭 I’m currently working on school 🙁. Outside of that, I'm mainly working on Github and the wonders it provides  
+- 🔭 I’m currently working on my website. Outside of that, I'm mainly working on having a good summer and eating plant based burgers  
 
 - 🌱 I’m currently learning Git and Java  
 
